@@ -15,7 +15,7 @@ N'hésitez pas à contribuer en soumettant une *pull request*. Vous êtes les bi
 ---
 
 ## 📖 Liste des livres
-- [Terraform: From Beginner to Master – Kevin Holditch](Books/Terraform%20from%20Beginner%20to%20Master.pdf)  
+- [Terraform: From Beginner to Master – Kevin Holditch](Books/Terraform from Beginner to Master.pdf)  
 - [Terraform Associate Certification – Kishan Patro](Books/Terraform.pdf)  
 - [Introduction to Kubernetes – Vikram](Books/Introduction%20to%20Kubernetes.pdf)  
 - [Ansible for AWS – Yan Kurniawan](Books/Ansible%20for%20AWS.pdf)  
