@@ -18,7 +18,7 @@ N'hésitez pas à contribuer en soumettant une *pull request*. Vous êtes les bi
 
 | Continuous Delivery and DevOps - A Quickstart Guide | [📄 PDF](./Books/Continuous%20Delivery%20and%20DevOps%20-%20A%20Quickstart%20Guide.pdf) |
 | DevOps with Kubernetes | [📄 PDF](./Books/DevOps-with-Kubernetes.pdf) |
-| Implementing DevOps on AWS | [📄 PDF](./Books/Implementing DevOps on AWS.pdf) |
+| Implementing DevOps on AWS | [📄 PDF](./Books/Implementing%20DevOps%20on%20AWS.pdf) |
 
 ---
 
