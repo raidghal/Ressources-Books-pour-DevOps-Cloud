@@ -26,6 +26,3 @@ N'hésitez pas à contribuer en soumettant une *pull request*. Vous êtes les bi
 - 
 ---
 
-## 👥 Contributeurs
-
-- [TonPseudoGitHub](https://github.com/TonPseudoGitHub)
